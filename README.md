@@ -18,6 +18,13 @@ Compilation of KaseiCrowdsaleDeployable contract:
 
 Deployment of contract:
 
-![Deploy](Deploy.mov)
-
+![Deploy1](Deploy1.png)
+![Deploy2](Deploy2.png)
+![Deploy3](Deploy3.png)
+![Deploy4](Deploy4.png)
+![Deploy5](Deploy5.png)
+![Deploy6](Deploy6.png)
+![Deploy7](Deploy7.png)
+![Deploy8](Deploy8.png)
+![Deploy9](Deploy9.png)
 
